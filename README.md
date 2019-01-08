@@ -81,3 +81,20 @@ Engineering Manager at Google working on Chrome.
 *   [Polymer Power Tools - Polymer Summit](http://addyosmani.com/blog/polymer-power-tools/) (October 9, 2015)
 
 * * *
+      
+<h1><img align="left" alt="Scott Hanselman" src="https://i.imgur.com/2Q5sjcg.jpg =100x" height="100px">Scott Hanselman</h1>  
+
+### [https://hanselman.com/](https://hanselman.com/)
+
+Scott Hanselman is a programmer, teacher, speaker, technologist, podcaster, writer, diversity advocate and more.
+
+*   [Relationship Hacks: Playing video games and having hobbies while avoiding resentment](http://feeds.hanselman.com/~/591001392/0/scotthanselman~Relationship-Hacks-Playing-video-games-and-having-hobbies-while-avoiding-resentment.aspx) (January 7, 2019)
+*   [Using Visual Studio Code to program Circuit Python with an AdaFruit NeoTrellis M4](http://feeds.hanselman.com/~/589512692/0/scotthanselman~Using-Visual-Studio-Code-to-program-Circuit-Python-with-an-AdaFruit-NeoTrellis-M.aspx) (December 25, 2018)
+*   [The Fun of Finishing - Exploring old games with Xbox Backwards Compatibility](http://feeds.hanselman.com/~/588904702/0/scotthanselman~The-Fun-of-Finishing-Exploring-old-games-with-Xbox-Backwards-Compatibility.aspx) (December 20, 2018)
+*   [Enjoy some DOS Games this Christmas with DOSBox](http://feeds.hanselman.com/~/588687246/0/scotthanselman~Enjoy-some-DOS-Games-this-Christmas-with-DOSBox.aspx) (December 18, 2018)
+*   [Useful ASP.NET Core 2.2 Features](http://feeds.hanselman.com/~/587735136/0/scotthanselman~Useful-ASPNET-Core-Features.aspx) (December 13, 2018)
+*   [How to set up ASP.NET Core 2.2 Health Checks with BeatPulse's AspNetCore.Diagnostics.HealthChecks](http://feeds.hanselman.com/~/585313356/0/scotthanselman~How-to-set-up-ASPNET-Core-Health-Checks-with-BeatPulses-AspNetCoreDiagnosticsHealthChecks.aspx) (December 11, 2018)
+*   [How to remove words from the Windows Autocorrect Spell Check Dictionary](http://feeds.hanselman.com/~/584291634/0/scotthanselman~How-to-remove-words-from-the-Windows-Autocorrect-Spell-Check-Dictionary.aspx) (December 6, 2018)
+*   [Announcing WPF, WinForms, and WinUI are going Open Source](http://feeds.hanselman.com/~/583683412/0/scotthanselman~Announcing-WPF-WinForms-and-WinUI-are-going-Open-Source.aspx) (December 4, 2018)
+
+* * *
