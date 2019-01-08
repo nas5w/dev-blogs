@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.imgur.com/x16XEhR.jpg" /></p>
-        <p align="center">Last updated: Invalid Date</p>
+        <p align="center">Last updated: January 8, 2019</p>
     
 * * *
     
