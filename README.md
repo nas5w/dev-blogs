@@ -11,17 +11,17 @@
 
 Working on @reactjs. Co-author of Redux and Create React App. Building tools for humans.
 
-*   [Preparing for a Tech Talk, Part 2: What, Why, and How](https://overreacted.io/preparing-for-tech-talk-part-2-what-why-and-how/) (December 31, 1969)
-*   [The Elements of UI Engineering](https://overreacted.io/the-elements-of-ui-engineering/) (December 31, 1969)
-*   [Things I Don’t Know as of 2018](https://overreacted.io/things-i-dont-know-as-of-2018/) (December 31, 1969)
-*   [Preparing for a Tech Talk, Part 1: Motivation](https://overreacted.io/preparing-for-tech-talk-part-1-motivation/) (December 31, 1969)
-*   [Why Do React Hooks Rely on Call Order?](https://overreacted.io/why-do-hooks-rely-on-call-order/) (December 31, 1969)
-*   [Optimized for Change](https://overreacted.io/optimized-for-change/) (December 31, 1969)
-*   [How Does setState Know What to Do?](https://overreacted.io/how-does-setstate-know-what-to-do/) (December 31, 1969)
-*   [My Wishlist for Hot Reloading](https://overreacted.io/my-wishlist-for-hot-reloading/) (December 31, 1969)
-*   [Why Do React Elements Have a $$typeof Property?](https://overreacted.io/why-do-react-elements-have-typeof-property/) (December 31, 1969)
-*   [How Does React Tell a Class from a Function?](https://overreacted.io/how-does-react-tell-a-class-from-a-function/) (December 31, 1969)
-*   [Why Do We Write super(props)?](https://overreacted.io/why-do-we-write-super-props/) (December 31, 1969)
+*   [Preparing for a Tech Talk, Part 2: What, Why, and How](https://overreacted.io/preparing-for-tech-talk-part-2-what-why-and-how/) (January 8, 2019)
+*   [The Elements of UI Engineering](https://overreacted.io/the-elements-of-ui-engineering/) (January 8, 2019)
+*   [Things I Don’t Know as of 2018](https://overreacted.io/things-i-dont-know-as-of-2018/) (January 8, 2019)
+*   [Preparing for a Tech Talk, Part 1: Motivation](https://overreacted.io/preparing-for-tech-talk-part-1-motivation/) (January 8, 2019)
+*   [Why Do React Hooks Rely on Call Order?](https://overreacted.io/why-do-hooks-rely-on-call-order/) (January 8, 2019)
+*   [Optimized for Change](https://overreacted.io/optimized-for-change/) (January 8, 2019)
+*   [How Does setState Know What to Do?](https://overreacted.io/how-does-setstate-know-what-to-do/) (January 8, 2019)
+*   [My Wishlist for Hot Reloading](https://overreacted.io/my-wishlist-for-hot-reloading/) (January 8, 2019)
+*   [Why Do React Elements Have a $$typeof Property?](https://overreacted.io/why-do-react-elements-have-typeof-property/) (January 8, 2019)
+*   [How Does React Tell a Class from a Function?](https://overreacted.io/how-does-react-tell-a-class-from-a-function/) (January 8, 2019)
+*   [Why Do We Write super(props)?](https://overreacted.io/why-do-we-write-super-props/) (January 8, 2019)
 
 * * *
       
