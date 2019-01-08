@@ -1,11 +1,11 @@
 <p align="center"><img src="https://i.imgur.com/x16XEhR.jpg" /></p>
-    <p align="center">Last updated: January 7, 2019</p>
-  
-* * *
-  
-  
+        <p align="center">Last updated: January 7, 2019</p>
     
-<h1><img align="left" alt="Dan Abramov" src="https://i.imgur.com/49uMsjf.jpg =100x" height="100px">Dan Abramov</h1>  
+    * * *
+    
+    
+        
+    <h1><img align="left" alt="Dan Abramov" src="https://i.imgur.com/49uMsjf.jpg =100x" height="100px">Dan Abramov</h1>  
 
 ### [https://overreacted.io](https://overreacted.io)
 
@@ -24,8 +24,8 @@ Working on @reactjs. Co-author of Redux and Create React App. Building tools for
 *   [Why Do We Write super(props)?](https://overreacted.io/why-do-we-write-super-props/) (January 7, 2019)
 
 * * *
-    
-<h1><img align="left" alt="Sarah Drasner" src="https://i.imgur.com/2GB1uSE.jpg =100x" height="100px">Sarah Drasner</h1>  
+        
+    <h1><img align="left" alt="Sarah Drasner" src="https://i.imgur.com/2GB1uSE.jpg =100x" height="100px">Sarah Drasner</h1>  
 
 ### [https://css-tricks.com/author/sdrasner](https://css-tricks.com/author/sdrasner)
 
@@ -41,5 +41,24 @@ DOM Blacksmith, UX Smelter, Code Forger.
 *   [Understanding the Almighty Reducer](https://css-tricks.com/understanding-the-almighty-reducer/) (January 7, 2019)
 *   [Creating a VS Code Theme](https://css-tricks.com/creating-a-vs-code-theme/) (January 7, 2019)
 *   [What does the ‘h’ stand for in Vue’s render method?](https://css-tricks.com/what-does-the-h-stand-for-in-vues-render-method/) (January 7, 2019)
+
+* * *
+        
+    <h1><img align="left" alt="Evan You" src="https://i.imgur.com/ouEEeIF.jpg =100x" height="100px">Evan You</h1>  
+
+### [https://medium.com/@youyuxi](https://medium.com/@youyuxi)
+
+Creator of @vuejs and connoisseur of sushi.
+
+*   [Disclaimer: I’m the author of Vue.](https://medium.com/@youyuxi/disclaimer-im-the-author-of-vue-1e80df427ec2?source=rss-4f198f5f1f12------2) (January 7, 2019)
+*   [Plans for the Next Iteration of Vue.js](https://medium.com/the-vue-point/plans-for-the-next-iteration-of-vue-js-777ffea6fabf?source=rss-4f198f5f1f12------2) (January 7, 2019)
+*   [The translation on Zhihu is great. Keep up the good work!](https://medium.com/@youyuxi/the-translation-on-zhihu-is-great-keep-up-the-good-work-13b25bf472b5?source=rss-4f198f5f1f12------2) (January 7, 2019)
+*   [Seriously, what?](https://medium.com/@youyuxi/seriously-what-7fa3071290a2?source=rss-4f198f5f1f12------2) (January 7, 2019)
+*   [Vue CLI 3.0 is here!](https://medium.com/the-vue-point/vue-cli-3-0-is-here-c42bebe28fbb?source=rss-4f198f5f1f12------2) (January 7, 2019)
+*   [Vue 2.5 released](https://medium.com/the-vue-point/vue-2-5-released-14bd65bf030b?source=rss-4f198f5f1f12------2) (January 7, 2019)
+*   [Upcoming TypeScript Changes in Vue 2.5](https://medium.com/the-vue-point/upcoming-typescript-changes-in-vue-2-5-e9bd7e2ecf08?source=rss-4f198f5f1f12------2) (January 7, 2019)
+*   [Vue is now on OpenCollective!](https://medium.com/the-vue-point/vue-is-now-on-opencollective-1ef89ca1334b?source=rss-4f198f5f1f12------2) (January 7, 2019)
+*   [Sorry about that!](https://medium.com/@youyuxi/sorry-about-that-1f70507e4bb?source=rss-4f198f5f1f12------2) (January 7, 2019)
+*   [Vue in 2016](https://medium.com/the-vue-point/vue-in-2016-8df71d98bfb3?source=rss-4f198f5f1f12------2) (January 7, 2019)
 
 * * *
