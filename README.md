@@ -246,3 +246,27 @@ CTO @betterdotcom. Ex-Spotify, co-organizing NYC ML meetup, open sourcing someti
 *   [Luigi: complex pipelines of tasks in Python](https://erikbern.com/2012/10/21/luigi-build-complex-pipelines-of-tasks.html) (October 21, 2012)
 
 * * *
+      
+<h1><img align="left" alt="Peter Krumins" src="https://i.imgur.com/6wKKpOV.jpg =100x" height="100px">Peter Krumins</h1>  
+
+### [http://www.catonmat.net/](http://www.catonmat.net/)
+
+Hacker. Co-founder of Browserling and Testling together with @substack. (We made: http://browserling.com, http://testling.com, http://browserify.org).
+
+*   [Announcing ProgUrls.com!](http://feedproxy.google.com/~r/catonmat/~3/d1g1UMVxTBQ/announcing-progurls) (January 4, 2019)
+*   [Announcing TechUrls.com!](http://feedproxy.google.com/~r/catonmat/~3/gRDiVVml7pI/announcing-techurls) (January 4, 2019)
+*   [Fractal Generators, Part 4](http://feedproxy.google.com/~r/catonmat/~3/YE90fTI3EMw/fractal-generators-part-four) (November 30, 2018)
+*   [Boom! Tetris for Jonas!](http://feedproxy.google.com/~r/catonmat/~3/VwiOv8T47jw/boom-tetris-for-jonas) (November 3, 2018)
+*   [Fifteenth site in online tools network: onlineUTF8tools.com](http://feedproxy.google.com/~r/catonmat/~3/bopNfu8H3Bk/online-utf8-tools) (November 29, 2018)
+*   [Browserling is now a top 30k website in the world](http://feedproxy.google.com/~r/catonmat/~3/ra4l--ELtKA/browserling-top-30k-website) (October 10, 2018)
+*   [My book Perl One Liners is in Humble Book Bundle again!](http://feedproxy.google.com/~r/catonmat/~3/twKKznUTgt8/perl-one-liners-in-humble-bundle-again) (October 5, 2018)
+*   [Even More Fractal Curve Generators](http://feedproxy.google.com/~r/catonmat/~3/DYhDPoVSZA4/draw-even-more-fractal-curves) (September 19, 2018)
+*   [Fourteenth site in online tools network: onlineIMAGEtools.com](http://feedproxy.google.com/~r/catonmat/~3/b6O3YeTmAYA/online-image-tools) (September 7, 2018)
+*   [Coffee in, code out](http://feedproxy.google.com/~r/catonmat/~3/0nYL-cvxUzU/coffee-in-code-out) (September 1, 2018)
+*   [More Fractal Curve Generators](http://feedproxy.google.com/~r/catonmat/~3/ooNe8yMcnAw/draw-more-fractal-curves) (September 16, 2018)
+*   [Candy in, code out](http://feedproxy.google.com/~r/catonmat/~3/QnINSximAfY/candy-in-code-out) (August 21, 2018)
+*   [Happy 25th birthday to Debian Linux!](http://feedproxy.google.com/~r/catonmat/~3/-IV8apE66C0/happy-25th-birthday-debian-linux) (August 20, 2018)
+*   [Thirteenth site in online tools network: onlineMATHtools.com](http://feedproxy.google.com/~r/catonmat/~3/9FOKQyOa33Q/online-math-tools) (August 20, 2018)
+*   [L-system Generator](http://feedproxy.google.com/~r/catonmat/~3/8TQUIRIL7vw/lsystem-generator) (August 20, 2018)
+
+* * *
