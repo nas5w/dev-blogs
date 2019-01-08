@@ -1,3 +1,9 @@
+<p align="center"><img src="https://i.imgur.com/x16XEhR.jpg" /></p>
+  
+* * *
+  
+  
+    
 <h1><img align="left" alt="Dan Abramov" src="https://i.imgur.com/49uMsjf.jpg =100x" height="100px">Dan Abramov</h1>  
 
 ### [https://overreacted.io](https://overreacted.io)
