@@ -62,3 +62,22 @@ Creator of @vuejs and connoisseur of sushi.
 *   [Vue in 2016](https://medium.com/the-vue-point/vue-in-2016-8df71d98bfb3?source=rss-4f198f5f1f12------2) (January 7, 2019)
 
 * * *
+      
+<h1><img align="left" alt="Addy Osmani" src="https://i.imgur.com/tB6S8Ys.jpg =100x" height="100px">Addy Osmani</h1>  
+
+### [https://addyosmani.com](https://addyosmani.com)
+
+Engineering Manager at Google working on Chrome.
+
+*   [Speed up next-page navigations with prefetching](http://addyosmani.com/blog/prefetching/) (January 7, 2019)
+*   [Shine a light on JavaScript performance with Lighthouse](http://addyosmani.com/blog/shine-a-light-javascript-performance/) (January 7, 2019)
+*   [Adaptive Serving using JavaScript and the Network Information API](http://addyosmani.com/blog/adaptive-serving/) (January 7, 2019)
+*   [Start Performance Budgeting](http://addyosmani.com/blog/performance-budgets/) (January 7, 2019)
+*   [Progressive Web Apps With React](http://addyosmani.com/blog/progressive-web-apps-with-react/) (January 7, 2019)
+*   [Offline installation of npm packages](http://addyosmani.com/blog/using-npm-offline/) (January 7, 2019)
+*   [Getting started with Progressive Web Apps](http://addyosmani.com/blog/getting-started-with-progressive-web-apps/) (January 7, 2019)
+*   [Instant Loading Web Apps With A Service Worker Application Shell Architecture](http://addyosmani.com/blog/application-shell/) (January 7, 2019)
+*   [Chrome DevTools Deep Dive - Extended](http://addyosmani.com/blog/chrome-devtools-deepdive/) (January 7, 2019)
+*   [Polymer Power Tools - Polymer Summit](http://addyosmani.com/blog/polymer-power-tools/) (January 7, 2019)
+
+* * *
