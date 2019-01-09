@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.imgur.com/x16XEhR.jpg" /></p>
-        <p align="center">Last updated: January 8, 2019</p>
+        <p align="center">Last updated: January 9, 2019</p>
     
 * * *
     
@@ -253,6 +253,7 @@ CTO @betterdotcom. Ex-Spotify, co-organizing NYC ML meetup, open sourcing someti
 
 Hacker. Co-founder of Browserling and Testling together with @substack. (We made: http://browserling.com, http://testling.com, http://browserify.org).
 
+*   [Sixteenth site in online tools network: onlineTEXTtools.com](http://feedproxy.google.com/~r/catonmat/~3/ooZUn3etFR8/online-text-tools) (January 9, 2019)
 *   [Announcing ProgUrls.com!](http://feedproxy.google.com/~r/catonmat/~3/d1g1UMVxTBQ/announcing-progurls) (January 4, 2019)
 *   [Announcing TechUrls.com!](http://feedproxy.google.com/~r/catonmat/~3/gRDiVVml7pI/announcing-techurls) (January 4, 2019)
 *   [Fractal Generators, Part 4](http://feedproxy.google.com/~r/catonmat/~3/YE90fTI3EMw/fractal-generators-part-four) (November 30, 2018)
