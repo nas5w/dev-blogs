@@ -69,6 +69,7 @@ Creator of @vuejs and connoisseur of sushi.
 
 Engineering Manager at Google working on Chrome.
 
+*   [Web Page Usability Matters](http://addyosmani.com/blog/usability/) (January 9, 2019)
 *   [Speed up next-page navigations with prefetching](http://addyosmani.com/blog/prefetching/) (December 14, 2018)
 *   [Shine a light on JavaScript performance with Lighthouse](http://addyosmani.com/blog/shine-a-light-javascript-performance/) (October 14, 2018)
 *   [Adaptive Serving using JavaScript and the Network Information API](http://addyosmani.com/blog/adaptive-serving/) (October 10, 2018)
