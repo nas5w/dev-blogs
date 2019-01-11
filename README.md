@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.imgur.com/x16XEhR.jpg" /></p>
-        <p align="center">Last updated: January 9, 2019</p>
+        <p align="center">Last updated: January 10, 2019</p>
     
 * * *
     
@@ -11,17 +11,17 @@
 
 Working on @reactjs. Co-author of Redux and Create React App. Building tools for humans.
 
-*   [Preparing for a Tech Talk, Part 2: What, Why, and How](https://overreacted.io/preparing-for-tech-talk-part-2-what-why-and-how/) (January 8, 2019)
-*   [The Elements of UI Engineering](https://overreacted.io/the-elements-of-ui-engineering/) (January 8, 2019)
-*   [Things I Don’t Know as of 2018](https://overreacted.io/things-i-dont-know-as-of-2018/) (January 8, 2019)
-*   [Preparing for a Tech Talk, Part 1: Motivation](https://overreacted.io/preparing-for-tech-talk-part-1-motivation/) (January 8, 2019)
-*   [Why Do React Hooks Rely on Call Order?](https://overreacted.io/why-do-hooks-rely-on-call-order/) (January 8, 2019)
-*   [Optimized for Change](https://overreacted.io/optimized-for-change/) (January 8, 2019)
-*   [How Does setState Know What to Do?](https://overreacted.io/how-does-setstate-know-what-to-do/) (January 8, 2019)
-*   [My Wishlist for Hot Reloading](https://overreacted.io/my-wishlist-for-hot-reloading/) (January 8, 2019)
-*   [Why Do React Elements Have a $$typeof Property?](https://overreacted.io/why-do-react-elements-have-typeof-property/) (January 8, 2019)
-*   [How Does React Tell a Class from a Function?](https://overreacted.io/how-does-react-tell-a-class-from-a-function/) (January 8, 2019)
-*   [Why Do We Write super(props)?](https://overreacted.io/why-do-we-write-super-props/) (January 8, 2019)
+*   [Preparing for a Tech Talk, Part 2: What, Why, and How](https://overreacted.io/preparing-for-tech-talk-part-2-what-why-and-how/) (January 7, 2019)
+*   [The Elements of UI Engineering](https://overreacted.io/the-elements-of-ui-engineering/) (December 30, 2018)
+*   [Things I Don’t Know as of 2018](https://overreacted.io/things-i-dont-know-as-of-2018/) (December 28, 2018)
+*   [Preparing for a Tech Talk, Part 1: Motivation](https://overreacted.io/preparing-for-tech-talk-part-1-motivation/) (December 26, 2018)
+*   [Why Do React Hooks Rely on Call Order?](https://overreacted.io/why-do-hooks-rely-on-call-order/) (December 13, 2018)
+*   [Optimized for Change](https://overreacted.io/optimized-for-change/) (December 12, 2018)
+*   [How Does setState Know What to Do?](https://overreacted.io/how-does-setstate-know-what-to-do/) (December 9, 2018)
+*   [My Wishlist for Hot Reloading](https://overreacted.io/my-wishlist-for-hot-reloading/) (December 8, 2018)
+*   [Why Do React Elements Have a $$typeof Property?](https://overreacted.io/why-do-react-elements-have-typeof-property/) (December 3, 2018)
+*   [How Does React Tell a Class from a Function?](https://overreacted.io/how-does-react-tell-a-class-from-a-function/) (December 2, 2018)
+*   [Why Do We Write super(props)?](https://overreacted.io/why-do-we-write-super-props/) (November 30, 2018)
 
 * * *
       
@@ -106,6 +106,7 @@ Scott Hanselman is a programmer, teacher, speaker, technologist, podcaster, writ
 
 CTO @betterdotcom. Ex-Spotify, co-organizing NYC ML meetup, open sourcing sometimes (Luigi, Annoy), blogging random stuff, dad.
 
+*   [Data architecture vs backend architecture](https://erikbern.com/2019/01/10/data-architecture-vs-backend-architecture.html) (January 10, 2019)
 *   [The hacker's guide to uncertainty estimates](https://erikbern.com/2018/10/08/the-hackers-guide-to-uncertainty-estimates.html) (October 8, 2018)
 *   [I don't want to learn your garbage query language](https://erikbern.com/2018/08/30/i-dont-want-to-learn-your-garbage-query-language.html) (August 30, 2018)
 *   [Business secrets from terrible people](https://erikbern.com/2018/08/16/business-secrets-from-terrible-people.html) (August 16, 2018)
