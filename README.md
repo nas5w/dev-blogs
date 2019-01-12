@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.imgur.com/x16XEhR.jpg" /></p>
-        <p align="center">Last updated: January 10, 2019</p>
+        <p align="center">Last updated: January 12, 2019</p>
     
 * * *
     
@@ -89,6 +89,7 @@ Engineering Manager at Google working on Chrome.
 
 Scott Hanselman is a programmer, teacher, speaker, technologist, podcaster, writer, diversity advocate and more.
 
+*   [How to update the firmware on your Zune, without Microsoft, dammit.](http://feeds.hanselman.com/~/591766064/0/scotthanselman~How-to-update-the-firmware-on-your-Zune-without-Microsoft-dammit.aspx) (January 10, 2019)
 *   [Relationship Hacks: Playing video games and having hobbies while avoiding resentment](http://feeds.hanselman.com/~/591001392/0/scotthanselman~Relationship-Hacks-Playing-video-games-and-having-hobbies-while-avoiding-resentment.aspx) (January 7, 2019)
 *   [Using Visual Studio Code to program Circuit Python with an AdaFruit NeoTrellis M4](http://feeds.hanselman.com/~/589512692/0/scotthanselman~Using-Visual-Studio-Code-to-program-Circuit-Python-with-an-AdaFruit-NeoTrellis-M.aspx) (December 25, 2018)
 *   [The Fun of Finishing - Exploring old games with Xbox Backwards Compatibility](http://feeds.hanselman.com/~/588904702/0/scotthanselman~The-Fun-of-Finishing-Exploring-old-games-with-Xbox-Backwards-Compatibility.aspx) (December 20, 2018)
