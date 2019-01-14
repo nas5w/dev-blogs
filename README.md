@@ -256,6 +256,7 @@ CTO @betterdotcom. Ex-Spotify, co-organizing NYC ML meetup, open sourcing someti
 
 Hacker. Co-founder of Browserling and Testling together with @substack. (We made: http://browserling.com, http://testling.com, http://browserify.org).
 
+*   [I've renamed ProgURLs to DevURLs](http://feedproxy.google.com/~r/catonmat/~3/UlYbwr-BmAQ/progurls-is-now-devurls) (January 14, 2019)
 *   [Announcing DevUrls.com!](http://feedproxy.google.com/~r/catonmat/~3/vJ9JYzDLN5U/announcing-devurls) (January 14, 2019)
 *   [Sixteenth site in online tools network: onlineTEXTtools.com](http://feedproxy.google.com/~r/catonmat/~3/ooZUn3etFR8/online-text-tools) (January 9, 2019)
 *   [Announcing ProgUrls.com!](http://feedproxy.google.com/~r/catonmat/~3/d1g1UMVxTBQ/announcing-progurls) (January 4, 2019)
