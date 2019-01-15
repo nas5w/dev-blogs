@@ -11,6 +11,7 @@
 
 Working on @reactjs. Co-author of Redux and Create React App. Building tools for humans.
 
+*   [Neden super(props) yazıyoruz?](https://overreacted.io/tr/why-do-we-write-super-props/) (January 15, 2019)
 *   [2018年，那些我所不知道的技術](https://overreacted.io/zh_TW/things-i-dont-know-as-of-2018/) (January 15, 2019)
 *   [Preparing for a Tech Talk, Part 2: What, Why, and How](https://overreacted.io/preparing-for-tech-talk-part-2-what-why-and-how/) (January 7, 2019)
 *   [The Elements of UI Engineering](https://overreacted.io/the-elements-of-ui-engineering/) (December 30, 2018)
