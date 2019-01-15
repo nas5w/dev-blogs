@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.imgur.com/x16XEhR.jpg" /></p>
-        <p align="center">Last updated: January 14, 2019</p>
+        <p align="center">Last updated: January 15, 2019</p>
     
 * * *
     
@@ -11,6 +11,7 @@
 
 Working on @reactjs. Co-author of Redux and Create React App. Building tools for humans.
 
+*   [2018年，那些我所不知道的技術](https://overreacted.io/zh_TW/things-i-dont-know-as-of-2018/) (January 15, 2019)
 *   [Preparing for a Tech Talk, Part 2: What, Why, and How](https://overreacted.io/preparing-for-tech-talk-part-2-what-why-and-how/) (January 7, 2019)
 *   [The Elements of UI Engineering](https://overreacted.io/the-elements-of-ui-engineering/) (December 30, 2018)
 *   [Things I Don’t Know as of 2018](https://overreacted.io/things-i-dont-know-as-of-2018/) (December 28, 2018)
