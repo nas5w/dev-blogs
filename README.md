@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.imgur.com/x16XEhR.jpg" /></p>
-        <p align="center">Last updated: January 15, 2019</p>
+        <p align="center">Last updated: January 17, 2019</p>
     
 * * *
     
@@ -91,6 +91,7 @@ Engineering Manager at Google working on Chrome.
 
 Scott Hanselman is a programmer, teacher, speaker, technologist, podcaster, writer, diversity advocate and more.
 
+*   [Installing the .NET Core 2.x SDK on a Raspberry Pi and Blinking an LED with System.Device.Gpio](http://feeds.hanselman.com/~/592545468/0/scotthanselman~Installing-the-NET-Core-x-SDK-on-a-Raspberry-Pi-and-Blinking-an-LED-with-SystemDeviceGpio.aspx) (January 15, 2019)
 *   [How to update the firmware on your Zune, without Microsoft, dammit.](http://feeds.hanselman.com/~/591766064/0/scotthanselman~How-to-update-the-firmware-on-your-Zune-without-Microsoft-dammit.aspx) (January 10, 2019)
 *   [Relationship Hacks: Playing video games and having hobbies while avoiding resentment](http://feeds.hanselman.com/~/591001392/0/scotthanselman~Relationship-Hacks-Playing-video-games-and-having-hobbies-while-avoiding-resentment.aspx) (January 7, 2019)
 *   [Using Visual Studio Code to program Circuit Python with an AdaFruit NeoTrellis M4](http://feeds.hanselman.com/~/589512692/0/scotthanselman~Using-Visual-Studio-Code-to-program-Circuit-Python-with-an-AdaFruit-NeoTrellis-M.aspx) (December 25, 2018)
