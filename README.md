@@ -94,6 +94,7 @@ Engineering Manager at Google working on Chrome.
 
 Scott Hanselman is a programmer, teacher, speaker, technologist, podcaster, writer, diversity advocate and more.
 
+*   [NuGet's fancy older sibling FuGet gives you a whole new view of the .NET packaging ecosystem](http://feeds.hanselman.com/~/594263954/0/scotthanselman~NuGets-fancy-older-sibling-FuGet-gives-you-a-whole-new-view-of-the-NET-packaging-ecosystem.aspx) (January 24, 2019)
 *   [How to use Windows 10's built-in OpenSSH to automatically SSH into a remote Linux machine](http://feeds.hanselman.com/~/593978298/0/scotthanselman~How-to-use-Windows-s-builtin-OpenSSH-to-automatically-SSH-into-a-remote-Linux-machine.aspx) (January 22, 2019)
 *   [Remote debugging with VS Code on Windows to a Raspberry Pi using .NET Core on ARM](http://feeds.hanselman.com/~/593231954/0/scotthanselman~Remote-debugging-with-VS-Code-on-Windows-to-a-Raspberry-Pi-using-NET-Core-on-ARM.aspx) (January 17, 2019)
 *   [Installing the .NET Core 2.x SDK on a Raspberry Pi and Blinking an LED with System.Device.Gpio](http://feeds.hanselman.com/~/592545468/0/scotthanselman~Installing-the-NET-Core-x-SDK-on-a-Raspberry-Pi-and-Blinking-an-LED-with-SystemDeviceGpio.aspx) (January 15, 2019)
