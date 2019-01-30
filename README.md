@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.imgur.com/x16XEhR.jpg" /></p>
-        <p align="center">Last updated: January 29, 2019</p>
+        <p align="center">Last updated: January 30, 2019</p>
     
 * * *
     
@@ -35,6 +35,7 @@ Working on @reactjs. Co-author of Redux and Create React App. Building tools for
 
 DOM Blacksmith, UX Smelter, Code Forger.
 
+*   [The Importance of One-on-Ones](https://css-tricks.com/the-importance-of-one-on-ones/) (January 30, 2019)
 *   [Who is @horse\_js?](https://whoishorsejs.com/) (January 22, 2019)
 *   [Voice-Controlled Web Visualizations with Vue.js and Machine Learning](https://css-tricks.com/voice-controlled-web-visualizations-with-vue-js-and-machine-learning/) (October 29, 2018)
 *   [Durable Functions: Fan Out Fan In Patterns](https://css-tricks.com/durable-functions-fan-out-fan-in-patterns/) (October 23, 2018)
