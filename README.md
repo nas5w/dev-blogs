@@ -265,6 +265,7 @@ CTO @betterdotcom. Ex-Spotify, co-organizing NYC ML meetup, open sourcing someti
 
 Hacker. Co-founder of Browserling and Testling together with @substack. (We made: http://browserling.com, http://testling.com, http://browserify.org).
 
+*   [My book Perl One Liners is in Humble Book Bundle again](http://feedproxy.google.com/~r/catonmat/~3/zOFhc_ny00I/perl-one-liners-in-humble-bundle-again) (September 24, 2018)
 *   [Announcing SciUrls.com](http://feedproxy.google.com/~r/catonmat/~3/H91XfHHJ6qA/announcing-sciurls) (January 18, 2019)
 *   [Sixteenth site in online tools network – onlineTEXTtools.com](http://feedproxy.google.com/~r/catonmat/~3/cWiEh2K_9LQ/online-text-tools) (January 9, 2019)
 *   [Announcing DevUrls.com](http://feedproxy.google.com/~r/catonmat/~3/46ThpgW8zPI/announcing-devurls) (January 2, 2019)
