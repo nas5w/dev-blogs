@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.imgur.com/x16XEhR.jpg" /></p>
-        <p align="center">Last updated: January 31, 2019</p>
+        <p align="center">Last updated: February 1, 2019</p>
     
 * * *
     
@@ -95,6 +95,7 @@ Engineering Manager at Google working on Chrome.
 
 Scott Hanselman is a programmer, teacher, speaker, technologist, podcaster, writer, diversity advocate and more.
 
+*   [Visiting The National Museum of Computing inside Bletchley Park - Can we crack Enigma with Raspberry Pis?](http://feeds.hanselman.com/~/595117860/0/scotthanselman~Visiting-The-National-Museum-of-Computing-inside-Bletchley-Park-Can-we-crack-Enigma-with-Raspberry-Pis.aspx) (January 29, 2019)
 *   [Visiting The National Museum of Computing inside Bletchley Park - Can we crack Engima with Raspberry Pis?](http://feeds.hanselman.com/~/595017966/0/scotthanselman~Visiting-The-National-Museum-of-Computing-inside-Bletchley-Park-Can-we-crack-Engima-with-Raspberry-Pis.aspx) (January 29, 2019)
 *   [NuGet's fancy older sibling FuGet gives you a whole new view of the .NET packaging ecosystem](http://feeds.hanselman.com/~/594263954/0/scotthanselman~NuGets-fancy-older-sibling-FuGet-gives-you-a-whole-new-view-of-the-NET-packaging-ecosystem.aspx) (January 24, 2019)
 *   [How to use Windows 10's built-in OpenSSH to automatically SSH into a remote Linux machine](http://feeds.hanselman.com/~/593978298/0/scotthanselman~How-to-use-Windows-s-builtin-OpenSSH-to-automatically-SSH-into-a-remote-Linux-machine.aspx) (January 22, 2019)
