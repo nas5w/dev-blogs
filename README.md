@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.imgur.com/x16XEhR.jpg" /></p>
-        <p align="center">Last updated: February 1, 2019</p>
+        <p align="center">Last updated: February 2, 2019</p>
     
 * * *
     
@@ -11,6 +11,7 @@
 
 Working on @reactjs. Co-author of Redux and Create React App. Building tools for humans.
 
+*   [React as a UI Runtime](https://overreacted.io/react-as-a-ui-runtime/) (February 2, 2019)
 *   [Why Isn’t X a Hook?](https://overreacted.io/why-isnt-x-a-hook/) (January 26, 2019)
 *   [The “Bug-O” Notation](https://overreacted.io/the-bug-o-notation/) (January 24, 2019)
 *   [Neden super(props) yazıyoruz?](https://overreacted.io/tr/why-do-we-write-super-props/) (January 15, 2019)
