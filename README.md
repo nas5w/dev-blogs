@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.imgur.com/x16XEhR.jpg" /></p>
-        <p align="center">Last updated: February 3, 2019</p>
+        <p align="center">Last updated: February 4, 2019</p>
     
 * * *
     
@@ -59,6 +59,7 @@ DOM Blacksmith, UX Smelter, Code Forger.
 
 Creator of @vuejs and connoisseur of sushi.
 
+*   [Vue 2.6 released!](https://medium.com/the-vue-point/vue-2-6-released-66aa6c8e785e?source=rss-4f198f5f1f12------2) (February 4, 2019)
 *   [Disclaimer: I’m the author of Vue.](https://medium.com/@youyuxi/disclaimer-im-the-author-of-vue-1e80df427ec2?source=rss-4f198f5f1f12------2) (January 4, 2019)
 *   [Plans for the Next Iteration of Vue.js](https://medium.com/the-vue-point/plans-for-the-next-iteration-of-vue-js-777ffea6fabf?source=rss-4f198f5f1f12------2) (September 30, 2018)
 *   [The translation on Zhihu is great. Keep up the good work!](https://medium.com/@youyuxi/the-translation-on-zhihu-is-great-keep-up-the-good-work-13b25bf472b5?source=rss-4f198f5f1f12------2) (September 4, 2018)
