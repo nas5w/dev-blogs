@@ -11,6 +11,7 @@
 
 Working on @reactjs. Co-author of Redux and Create React App. Building tools for humans.
 
+*   [Making setInterval Declarative with React Hooks](https://overreacted.io/making-setinterval-declarative-with-react-hooks/) (February 3, 2019)
 *   [Making setInterval Play Well with React Hooks](https://overreacted.io/making-setinterval-play-well-with-react-hooks/) (February 3, 2019)
 *   [React as a UI Runtime](https://overreacted.io/react-as-a-ui-runtime/) (February 2, 2019)
 *   [Why Isn’t X a Hook?](https://overreacted.io/why-isnt-x-a-hook/) (January 26, 2019)
