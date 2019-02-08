@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.imgur.com/x16XEhR.jpg" /></p>
-        <p align="center">Last updated: February 6, 2019</p>
+        <p align="center">Last updated: February 8, 2019</p>
     
 * * *
     
@@ -80,6 +80,7 @@ Creator of @vuejs and connoisseur of sushi.
 
 Engineering Manager at Google working on Chrome.
 
+*   [The Cost Of Client-side Rehydration](http://addyosmani.com/blog/rehydration/) (February 8, 2019)
 *   [Web Page Usability Matters](http://addyosmani.com/blog/usability/) (January 9, 2019)
 *   [Speed up next-page navigations with prefetching](http://addyosmani.com/blog/prefetching/) (December 14, 2018)
 *   [Shine a light on JavaScript performance with Lighthouse](http://addyosmani.com/blog/shine-a-light-javascript-performance/) (October 14, 2018)
