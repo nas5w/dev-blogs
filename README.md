@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.imgur.com/x16XEhR.jpg" /></p>
-        <p align="center">Last updated: February 8, 2019</p>
+        <p align="center">Last updated: February 10, 2019</p>
     
 * * *
     
@@ -101,6 +101,7 @@ Engineering Manager at Google working on Chrome.
 
 Scott Hanselman is a programmer, teacher, speaker, technologist, podcaster, writer, diversity advocate and more.
 
+*   [Lighting up my DasKeyboard with Blood Sugar changes using my body's REST API](http://feeds.hanselman.com/~/596462438/0/scotthanselman~Lighting-up-my-DasKeyboard-with-Blood-Sugar-changes-using-my-bodys-REST-API.aspx) (February 7, 2019)
 *   [Teaching Kids to Code with Minecraft Mods made easy using MakeCode and Code Connection](http://feeds.hanselman.com/~/596233468/0/scotthanselman~Teaching-Kids-to-Code-with-Minecraft-Mods-made-easy-using-MakeCode-and-Code-Connection.aspx) (February 5, 2019)
 *   [Brainstorming - Creating a small single self-contained executable out of a .NET Core application](http://feeds.hanselman.com/~/595887896/0/scotthanselman~Brainstorming-Creating-a-small-single-selfcontained-executable-out-of-a-NET-Core-application.aspx) (January 31, 2019)
 *   [Visiting The National Museum of Computing inside Bletchley Park - Can we crack Enigma with Raspberry Pis?](http://feeds.hanselman.com/~/595117860/0/scotthanselman~Visiting-The-National-Museum-of-Computing-inside-Bletchley-Park-Can-we-crack-Enigma-with-Raspberry-Pis.aspx) (January 29, 2019)
