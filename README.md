@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.imgur.com/x16XEhR.jpg" /></p>
-        <p align="center">Last updated: February 10, 2019</p>
+        <p align="center">Last updated: February 15, 2019</p>
     
 * * *
     
@@ -101,6 +101,7 @@ Engineering Manager at Google working on Chrome.
 
 Scott Hanselman is a programmer, teacher, speaker, technologist, podcaster, writer, diversity advocate and more.
 
+*   [How to convert an IMG file to an standard ISO easily with Linux on Windows 10](http://feeds.hanselman.com/~/597312684/0/scotthanselman~How-to-convert-an-IMG-file-to-an-standard-ISO-easily-with-Linux-on-Windows.aspx) (February 12, 2019)
 *   [Lighting up my DasKeyboard with Blood Sugar changes using my body's REST API](http://feeds.hanselman.com/~/596462438/0/scotthanselman~Lighting-up-my-DasKeyboard-with-Blood-Sugar-changes-using-my-bodys-REST-API.aspx) (February 7, 2019)
 *   [Teaching Kids to Code with Minecraft Mods made easy using MakeCode and Code Connection](http://feeds.hanselman.com/~/596233468/0/scotthanselman~Teaching-Kids-to-Code-with-Minecraft-Mods-made-easy-using-MakeCode-and-Code-Connection.aspx) (February 5, 2019)
 *   [Brainstorming - Creating a small single self-contained executable out of a .NET Core application](http://feeds.hanselman.com/~/595887896/0/scotthanselman~Brainstorming-Creating-a-small-single-selfcontained-executable-out-of-a-NET-Core-application.aspx) (January 31, 2019)
