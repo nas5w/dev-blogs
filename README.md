@@ -81,6 +81,7 @@ Creator of @vuejs and connoisseur of sushi.
 
 Engineering Manager at Google working on Chrome.
 
+*   [JavaScript Loading Priorities in Chrome](http://addyosmani.com/blog/script-priorities/) (February 18, 2019)
 *   [Exploring a back/forward cache for Chrome](http://addyosmani.com/blog/back-forward-cache/) (February 17, 2019)
 *   [The Cost Of Client-side Rehydration](http://addyosmani.com/blog/rehydration/) (February 8, 2019)
 *   [Web Page Usability Matters](http://addyosmani.com/blog/usability/) (January 9, 2019)
