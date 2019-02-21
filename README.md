@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.imgur.com/x16XEhR.jpg" /></p>
-        <p align="center">Last updated: February 20, 2019</p>
+        <p align="center">Last updated: February 21, 2019</p>
     
 * * *
     
@@ -81,6 +81,7 @@ Creator of @vuejs and connoisseur of sushi.
 
 Engineering Manager at Google working on Chrome.
 
+*   [Disallow large imports from JavaScript projects](http://addyosmani.com/blog/disallow-imports/) (February 20, 2019)
 *   [JavaScript Loading Priorities in Chrome](http://addyosmani.com/blog/script-priorities/) (February 18, 2019)
 *   [Exploring a back/forward cache for Chrome](http://addyosmani.com/blog/back-forward-cache/) (February 17, 2019)
 *   [The Cost Of Client-side Rehydration](http://addyosmani.com/blog/rehydration/) (February 8, 2019)
