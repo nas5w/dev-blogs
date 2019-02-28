@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.imgur.com/x16XEhR.jpg" /></p>
-        <p align="center">Last updated: February 26, 2019</p>
+        <p align="center">Last updated: February 27, 2019</p>
     
 * * *
     
@@ -286,6 +286,7 @@ CTO @betterdotcom. Ex-Spotify, co-organizing NYC ML meetup, open sourcing someti
 
 Hacker. Co-founder of Browserling and Testling together with @substack. (We made: http://browserling.com, http://testling.com, http://browserify.org).
 
+*   [Announcing FinUrls.com](http://feedproxy.google.com/~r/catonmat/~3/x-tLxJhMMfw/announcing-finurls) (February 27, 2019)
 *   [Happy 25th Birthday to Debian Linux](http://feedproxy.google.com/~r/catonmat/~3/LuWOPwJZa1M/happy-25th-birthday-debian-linux) (August 16, 2018)
 *   [My book Perl One Liners is in Humble Book Bundle again](http://feedproxy.google.com/~r/catonmat/~3/zOFhc_ny00I/perl-one-liners-in-humble-bundle-again) (September 24, 2018)
 *   [Announcing SciUrls.com](http://feedproxy.google.com/~r/catonmat/~3/H91XfHHJ6qA/announcing-sciurls) (January 18, 2019)
