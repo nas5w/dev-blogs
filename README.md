@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.imgur.com/x16XEhR.jpg" /></p>
-        <p align="center">Last updated: February 27, 2019</p>
+        <p align="center">Last updated: March 1, 2019</p>
     
 * * *
     
@@ -105,6 +105,7 @@ Engineering Manager at Google working on Chrome.
 
 Scott Hanselman is a programmer, teacher, speaker, technologist, podcaster, writer, diversity advocate and more.
 
+*   [Hey Siri, what's my blood sugar? Learning to Code with Apple's iPhone Shortcuts](http://feeds.hanselman.com/~/599070490/0/scotthanselman~Hey-Siri-whats-my-blood-sugar-Learning-to-Code-with-Apples-iPhone-Shortcuts.aspx) (February 26, 2019)
 *   [Learning about .NET Core futures by poking around at David Fowler's GitHub](http://feeds.hanselman.com/~/598983014/0/scotthanselman~Learning-about-NET-Core-futures-by-poking-around-at-David-Fowlers-GitHub.aspx) (February 21, 2019)
 *   [Right click publish quickly to Azure App Services with VS Code extensions and zipdeploy](http://feeds.hanselman.com/~/598592576/0/scotthanselman~Right-click-publish-quickly-to-Azure-App-Services-with-VS-Code-extensions-and-zipdeploy.aspx) (February 19, 2019)
 *   [Exploring nopCommerce - open source e-commerce shopping cart platform in .NET Core](http://feeds.hanselman.com/~/597843076/0/scotthanselman~Exploring-nopCommerce-open-source-ecommerce-shopping-cart-platform-in-NET-Core.aspx) (February 14, 2019)
