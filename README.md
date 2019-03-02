@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.imgur.com/x16XEhR.jpg" /></p>
-        <p align="center">Last updated: March 1, 2019</p>
+        <p align="center">Last updated: March 2, 2019</p>
     
 * * *
     
@@ -11,6 +11,7 @@
 
 Working on @reactjs. Co-author of Redux and Create React App. Building tools for humans.
 
+*   [Coping with Feedback](https://overreacted.io/coping-with-feedback/) (March 1, 2019)
 *   [Fix Like No One’s Watching](https://overreacted.io/fix-like-no-ones-watching/) (February 14, 2019)
 *   [Making setInterval Declarative with React Hooks](https://overreacted.io/making-setinterval-declarative-with-react-hooks/) (February 3, 2019)
 *   [Making setInterval Play Well with React Hooks](https://overreacted.io/making-setinterval-play-well-with-react-hooks/) (February 3, 2019)
