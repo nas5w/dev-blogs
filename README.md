@@ -11,6 +11,7 @@
 
 Working on @reactjs. Co-author of Redux and Create React App. Building tools for humans.
 
+*   [How Are Function Components Different from Classes?](https://overreacted.io/how-are-function-components-different-from-classes/) (March 2, 2019)
 *   [How Are Function Components Different From Classes?](https://overreacted.io/how-are-function-components-different-from-classes/) (March 2, 2019)
 *   [Coping with Feedback](https://overreacted.io/coping-with-feedback/) (March 1, 2019)
 *   [Fix Like No One’s Watching](https://overreacted.io/fix-like-no-ones-watching/) (February 14, 2019)
