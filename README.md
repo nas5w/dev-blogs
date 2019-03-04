@@ -42,6 +42,7 @@ Working on @reactjs. Co-author of Redux and Create React App. Building tools for
 
 DOM Blacksmith, UX Smelter, Code Forger.
 
+*   [Learning to Learn](https://css-tricks.com/learning-to-learn/) (March 4, 2019)
 *   [What Hooks Mean for Vue](https://css-tricks.com/what-hooks-mean-for-vue/) (February 4, 2019)
 *   [The Importance of One-on-Ones](https://css-tricks.com/the-importance-of-one-on-ones/) (January 30, 2019)
 *   [Who is @horse\_js?](https://whoishorsejs.com/) (January 22, 2019)
