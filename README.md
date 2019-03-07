@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.imgur.com/x16XEhR.jpg" /></p>
-        <p align="center">Last updated: March 6, 2019</p>
+        <p align="center">Last updated: March 7, 2019</p>
     
 * * *
     
@@ -85,6 +85,7 @@ Creator of @vuejs and connoisseur of sushi.
 
 Engineering Manager at Google working on Chrome.
 
+*   [Rendering large lists with react-window](http://addyosmani.com/blog/react-window/) (March 7, 2019)
 *   [Disallow large imports from JavaScript projects](http://addyosmani.com/blog/disallow-imports/) (February 20, 2019)
 *   [JavaScript Loading Priorities in Chrome](http://addyosmani.com/blog/script-priorities/) (February 18, 2019)
 *   [Exploring a back/forward cache for Chrome](http://addyosmani.com/blog/back-forward-cache/) (February 17, 2019)
