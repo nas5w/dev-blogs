@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.imgur.com/x16XEhR.jpg" /></p>
-        <p align="center">Last updated: March 4, 2019</p>
+        <p align="center">Last updated: March 6, 2019</p>
     
 * * *
     
@@ -109,6 +109,7 @@ Engineering Manager at Google working on Chrome.
 
 Scott Hanselman is a programmer, teacher, speaker, technologist, podcaster, writer, diversity advocate and more.
 
+*   [Converting an Excel Worksheet into a JSON document with C# and .NET Core and ExcelDataReader](http://feeds.hanselman.com/~/599260678/0/scotthanselman~Converting-an-Excel-Worksheet-into-a-JSON-document-with-C-and-NET-Core-and-ExcelDataReader.aspx) (March 5, 2019)
 *   [EditorConfig code formatting from the command line with .NET Core's dotnet format global tool](http://feeds.hanselman.com/~/599156310/0/scotthanselman~EditorConfig-code-formatting-from-the-command-line-with-NET-Cores-dotnet-format-global-tool.aspx) (February 28, 2019)
 *   [Hey Siri, what's my blood sugar? Learning to Code with Apple's iPhone Shortcuts](http://feeds.hanselman.com/~/599070490/0/scotthanselman~Hey-Siri-whats-my-blood-sugar-Learning-to-Code-with-Apples-iPhone-Shortcuts.aspx) (February 26, 2019)
 *   [Learning about .NET Core futures by poking around at David Fowler's GitHub](http://feeds.hanselman.com/~/598983014/0/scotthanselman~Learning-about-NET-Core-futures-by-poking-around-at-David-Fowlers-GitHub.aspx) (February 21, 2019)
