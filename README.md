@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.imgur.com/x16XEhR.jpg" /></p>
-        <p align="center">Last updated: March 8, 2019</p>
+        <p align="center">Last updated: March 11, 2019</p>
     
 * * *
     
@@ -11,6 +11,7 @@
 
 Working on @reactjs. Co-author of Redux and Create React App. Building tools for humans.
 
+*   [A Complete Guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect/) (March 8, 2019)
 *   [How Are Function Components Different from Classes?](https://overreacted.io/how-are-function-components-different-from-classes/) (March 2, 2019)
 *   [How Are Function Components Different From Classes?](https://overreacted.io/how-are-function-components-different-from-classes/) (March 2, 2019)
 *   [Coping with Feedback](https://overreacted.io/coping-with-feedback/) (March 1, 2019)
