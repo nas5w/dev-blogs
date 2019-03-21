@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.imgur.com/x16XEhR.jpg" /></p>
-        <p align="center">Last updated: March 11, 2019</p>
+        <p align="center">Last updated: March 21, 2019</p>
     
 * * *
     
@@ -11,6 +11,7 @@
 
 Working on @reactjs. Co-author of Redux and Create React App. Building tools for humans.
 
+*   [Writing Resilient Components](https://overreacted.io/writing-resilient-components/) (March 15, 2019)
 *   [A Complete Guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect/) (March 8, 2019)
 *   [How Are Function Components Different from Classes?](https://overreacted.io/how-are-function-components-different-from-classes/) (March 2, 2019)
 *   [How Are Function Components Different From Classes?](https://overreacted.io/how-are-function-components-different-from-classes/) (March 2, 2019)
@@ -111,6 +112,8 @@ Engineering Manager at Google working on Chrome.
 
 Scott Hanselman is a programmer, teacher, speaker, technologist, podcaster, writer, diversity advocate and more.
 
+*   [Xbox Avatar accessories for People with Diabetes! Sponsored by Nightscout and Konsole Kingz](http://feeds.hanselman.com/~/599636766/0/scotthanselman~Xbox-Avatar-accessories-for-People-with-Diabetes-Sponsored-by-Nightscout-and-Konsole-Kingz.aspx) (March 14, 2019)
+*   [How to stream PC games from Windows 10 to your Xbox One for free](http://feeds.hanselman.com/~/599596838/0/scotthanselman~How-to-stream-PC-games-from-Windows-to-your-Xbox-One-for-free.aspx) (March 12, 2019)
 *   [How to parse string dates with a two digit year and split on the right century in C#](http://feeds.hanselman.com/~/599330886/0/scotthanselman~How-to-parse-string-dates-with-a-two-digit-year-and-split-on-the-right-century-in-C.aspx) (March 7, 2019)
 *   [Converting an Excel Worksheet into a JSON document with C# and .NET Core and ExcelDataReader](http://feeds.hanselman.com/~/599260678/0/scotthanselman~Converting-an-Excel-Worksheet-into-a-JSON-document-with-C-and-NET-Core-and-ExcelDataReader.aspx) (March 5, 2019)
 *   [EditorConfig code formatting from the command line with .NET Core's dotnet format global tool](http://feeds.hanselman.com/~/599156310/0/scotthanselman~EditorConfig-code-formatting-from-the-command-line-with-NET-Cores-dotnet-format-global-tool.aspx) (February 28, 2019)
