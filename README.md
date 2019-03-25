@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.imgur.com/x16XEhR.jpg" /></p>
-        <p align="center">Last updated: March 22, 2019</p>
+        <p align="center">Last updated: March 25, 2019</p>
     
 * * *
     
@@ -112,6 +112,7 @@ Engineering Manager at Google working on Chrome.
 
 Scott Hanselman is a programmer, teacher, speaker, technologist, podcaster, writer, diversity advocate and more.
 
+*   [Getting Started with .NET Core and Docker and the Microsoft Container Registry](http://feeds.hanselman.com/~/599966462/0/scotthanselman~Getting-Started-with-NET-Core-and-Docker-and-the-Microsoft-Container-Registry.aspx) (March 21, 2019)
 *   [What is Blazor and what is Razor Components?](http://feeds.hanselman.com/~/599891564/0/scotthanselman~What-is-Blazor-and-what-is-Razor-Components.aspx) (March 19, 2019)
 *   [Xbox Avatar accessories for People with Diabetes! Sponsored by Nightscout and Konsole Kingz](http://feeds.hanselman.com/~/599636766/0/scotthanselman~Xbox-Avatar-accessories-for-People-with-Diabetes-Sponsored-by-Nightscout-and-Konsole-Kingz.aspx) (March 14, 2019)
 *   [How to stream PC games from Windows 10 to your Xbox One for free](http://feeds.hanselman.com/~/599596838/0/scotthanselman~How-to-stream-PC-games-from-Windows-to-your-Xbox-One-for-free.aspx) (March 12, 2019)
