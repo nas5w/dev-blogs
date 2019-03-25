@@ -11,6 +11,7 @@
 
 Working on @reactjs. Co-author of Redux and Create React App. Building tools for humans.
 
+*   [Name It, and They Will Come](https://overreacted.io/name-it-and-they-will-come/) (March 28, 2019)
 *   [Writing Resilient Components](https://overreacted.io/writing-resilient-components/) (March 15, 2019)
 *   [A Complete Guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect/) (March 8, 2019)
 *   [How Are Function Components Different from Classes?](https://overreacted.io/how-are-function-components-different-from-classes/) (March 2, 2019)
