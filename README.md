@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.imgur.com/x16XEhR.jpg" /></p>
-        <p align="center">Last updated: March 28, 2019</p>
+        <p align="center">Last updated: March 30, 2019</p>
     
 * * *
     
@@ -113,6 +113,7 @@ Engineering Manager at Google working on Chrome.
 
 Scott Hanselman is a programmer, teacher, speaker, technologist, podcaster, writer, diversity advocate and more.
 
+*   [Displaying your realtime Blood Glucose from NightScout on an AdaFruit PyPortal](http://feeds.hanselman.com/~/600168208/0/scotthanselman~Displaying-your-realtime-Blood-Glucose-from-NightScout-on-an-AdaFruit-PyPortal.aspx) (March 28, 2019)
 *   [F7 is the greatest PowerShell hotkey that no one uses any more. We must fix this.](http://feeds.hanselman.com/~/600072732/0/scotthanselman~F-is-the-greatest-PowerShell-hotkey-that-no-one-uses-any-more-We-must-fix-this.aspx) (March 26, 2019)
 *   [Getting Started with .NET Core and Docker and the Microsoft Container Registry](http://feeds.hanselman.com/~/599966462/0/scotthanselman~Getting-Started-with-NET-Core-and-Docker-and-the-Microsoft-Container-Registry.aspx) (March 21, 2019)
 *   [What is Blazor and what is Razor Components?](http://feeds.hanselman.com/~/599891564/0/scotthanselman~What-is-Blazor-and-what-is-Razor-Components.aspx) (March 19, 2019)
