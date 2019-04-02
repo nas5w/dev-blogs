@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.imgur.com/x16XEhR.jpg" /></p>
-        <p align="center">Last updated: March 30, 2019</p>
+        <p align="center">Last updated: April 2, 2019</p>
     
 * * *
     
@@ -45,6 +45,7 @@ Working on @reactjs. Co-author of Redux and Create React App. Building tools for
 
 DOM Blacksmith, UX Smelter, Code Forger.
 
+*   [Form Validation in Under an Hour with Vuelidate](https://css-tricks.com/form-validation-in-under-an-hour-with-vuelidate/) (April 2, 2019)
 *   [Learning to Learn](https://css-tricks.com/learning-to-learn/) (March 4, 2019)
 *   [What Hooks Mean for Vue](https://css-tricks.com/what-hooks-mean-for-vue/) (February 4, 2019)
 *   [The Importance of One-on-Ones](https://css-tricks.com/the-importance-of-one-on-ones/) (January 30, 2019)
