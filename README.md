@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.imgur.com/x16XEhR.jpg" /></p>
-        <p align="center">Last updated: April 6, 2019</p>
+        <p align="center">Last updated: April 10, 2019</p>
     
 * * *
     
@@ -115,6 +115,7 @@ Engineering Manager at Google working on Chrome.
 
 Scott Hanselman is a programmer, teacher, speaker, technologist, podcaster, writer, diversity advocate and more.
 
+*   [Coders: Context Switching is hard for both computers and relationships](http://feeds.hanselman.com/~/600699960/0/scotthanselman~Coders-Context-Switching-is-hard-for-both-computers-and-relationships.aspx) (April 4, 2019)
 *   [The Transitive Property of Friendship - and the importance of the Warm Intro](http://feeds.hanselman.com/~/600338542/0/scotthanselman~The-Transitive-Property-of-Friendship-and-the-importance-of-the-Warm-Intro.aspx) (April 2, 2019)
 *   [Displaying your realtime Blood Glucose from NightScout on an AdaFruit PyPortal](http://feeds.hanselman.com/~/600168208/0/scotthanselman~Displaying-your-realtime-Blood-Glucose-from-NightScout-on-an-AdaFruit-PyPortal.aspx) (March 28, 2019)
 *   [F7 is the greatest PowerShell hotkey that no one uses any more. We must fix this.](http://feeds.hanselman.com/~/600072732/0/scotthanselman~F-is-the-greatest-PowerShell-hotkey-that-no-one-uses-any-more-We-must-fix-this.aspx) (March 26, 2019)
