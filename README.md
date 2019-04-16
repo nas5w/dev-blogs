@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.imgur.com/x16XEhR.jpg" /></p>
-        <p align="center">Last updated: April 15, 2019</p>
+        <p align="center">Last updated: April 16, 2019</p>
     
 * * *
     
@@ -115,6 +115,7 @@ Engineering Manager at Google working on Chrome.
 
 Scott Hanselman is a programmer, teacher, speaker, technologist, podcaster, writer, diversity advocate and more.
 
+*   [Your computer is not a black box - Understanding Processes and Ports on Windows by exploring](http://feeds.hanselman.com/~/600875412/0/scotthanselman~Your-computer-is-not-a-black-box-Understanding-Processes-and-Ports-on-Windows-by-exploring.aspx) (April 16, 2019)
 *   [Blocking ads before they enter your house at the DNS level with pi-hole and a cheap Raspberry Pi](http://feeds.hanselman.com/~/600808018/0/scotthanselman~Blocking-ads-before-they-enter-your-house-at-the-DNS-level-with-pihole-and-a-cheap-Raspberry-Pi.aspx) (April 11, 2019)
 *   [Accessibility Insights for the Web and Windows makes accessibility even easier](http://feeds.hanselman.com/~/600780338/0/scotthanselman~Accessibility-Insights-for-the-Web-and-Windows-makes-accessibility-even-easier.aspx) (April 9, 2019)
 *   [Coders: Context Switching is hard for both computers and relationships](http://feeds.hanselman.com/~/600699960/0/scotthanselman~Coders-Context-Switching-is-hard-for-both-computers-and-relationships.aspx) (April 4, 2019)
