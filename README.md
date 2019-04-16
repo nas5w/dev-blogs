@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.imgur.com/x16XEhR.jpg" /></p>
-        <p align="center">Last updated: April 13, 2019</p>
+        <p align="center">Last updated: April 15, 2019</p>
     
 * * *
     
@@ -160,6 +160,7 @@ Scott Hanselman is a programmer, teacher, speaker, technologist, podcaster, writ
 
 CTO @betterdotcom. Ex-Spotify, co-organizing NYC ML meetup, open sourcing sometimes (Luigi, Annoy), blogging random stuff, dad.
 
+*   [Why software projects always take longer than you think – a statistical model](https://erikbern.com/2019/04/15/why-software-projects-always-take-longer-than-you-think-a-statistical-model.html) (April 15, 2019)
 *   [Headcount goals, feature factories, and when to hire those mythical 10x people](https://erikbern.com/2019/02/21/headcount-targets-feature-factories-and-when-to-hire-those-mythical-10x-people.html) (February 21, 2019)
 *   [Data architecture vs backend architecture](https://erikbern.com/2019/01/10/data-architecture-vs-backend-architecture.html) (January 10, 2019)
 *   [The hacker's guide to uncertainty estimates](https://erikbern.com/2018/10/08/the-hackers-guide-to-uncertainty-estimates.html) (October 8, 2018)
