@@ -115,6 +115,7 @@ Engineering Manager at Google working on Chrome.
 
 Scott Hanselman is a programmer, teacher, speaker, technologist, podcaster, writer, diversity advocate and more.
 
+*   [Software Defined Radio is a great way to bridge the physical and the digital and teach STEM](http://feeds.hanselman.com/~/601195008/0/scotthanselman~Software-Defined-Radio-is-a-great-way-to-bridge-the-physical-and-the-digital-and-teach-STEM.aspx) (April 25, 2019)
 *   [Open Source Artificial Pancreases will become the new standard of care for Diabetes in 2019](http://feeds.hanselman.com/~/601169016/0/scotthanselman~Open-Source-Artificial-Pancreases-will-become-the-new-standard-of-care-for-Diabetes-in.aspx) (April 23, 2019)
 *   [Open Source Artificial Pancreases will become the new standard of care for Diabetes](http://feeds.hanselman.com/~/601168916/0/scotthanselman~Open-Source-Artificial-Pancreases-will-become-the-new-standard-of-care-for-Diabetes.aspx) (April 23, 2019)
 *   [Exploring DNS with the .NET Core based Technitium DNS Server](http://feeds.hanselman.com/~/601093768/0/scotthanselman~Exploring-DNS-with-the-NET-Core-based-Technitium-DNS-Server.aspx) (April 18, 2019)
