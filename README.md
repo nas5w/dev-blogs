@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.imgur.com/x16XEhR.jpg" /></p>
-        <p align="center">Last updated: April 23, 2019</p>
+        <p align="center">Last updated: April 25, 2019</p>
     
 * * *
     
@@ -115,6 +115,7 @@ Engineering Manager at Google working on Chrome.
 
 Scott Hanselman is a programmer, teacher, speaker, technologist, podcaster, writer, diversity advocate and more.
 
+*   [Open Source Artificial Pancreases will become the new standard of care for Diabetes](http://feeds.hanselman.com/~/601168916/0/scotthanselman~Open-Source-Artificial-Pancreases-will-become-the-new-standard-of-care-for-Diabetes.aspx) (April 23, 2019)
 *   [Exploring DNS with the .NET Core based Technitium DNS Server](http://feeds.hanselman.com/~/601093768/0/scotthanselman~Exploring-DNS-with-the-NET-Core-based-Technitium-DNS-Server.aspx) (April 18, 2019)
 *   [Your computer is not a black box - Understanding Processes and Ports on Windows by exploring](http://feeds.hanselman.com/~/600875412/0/scotthanselman~Your-computer-is-not-a-black-box-Understanding-Processes-and-Ports-on-Windows-by-exploring.aspx) (April 16, 2019)
 *   [Blocking ads before they enter your house at the DNS level with pi-hole and a cheap Raspberry Pi](http://feeds.hanselman.com/~/600808018/0/scotthanselman~Blocking-ads-before-they-enter-your-house-at-the-DNS-level-with-pihole-and-a-cheap-Raspberry-Pi.aspx) (April 11, 2019)
